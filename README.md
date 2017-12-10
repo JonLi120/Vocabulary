@@ -106,11 +106,11 @@ As a user, I should be able to:
 To complete the application’s feature set, you need to complete the following tasks based on the application architecture and design mock-ups provided above:
 1.	Implement the query method of VocabularyProvider to return:
 •	Selected vocabularies (using selection criteria) via
-content://com.google.developer.vocabulary/vocabulary
+content://com.litto.vocabulary/vocabulary
 •	A single vocabulary by ID via
-content://com.google.developer.vocabulary/vocabulary/{id}
+content://com.litto.vocabulary/vocabulary/{id}
 2.	Implement the insert method of VocabularyProvider to accept new vocabulary data via
-content://com.google.developer.vocabulary/vocabulary.
+content://com.litto.vocabulary/vocabulary.
 3.	When the database is created, populate the database with the contents of the res/raw/vocabularies.json data model.
 4.	Create a new list item layout for a vocabulary item per the Main Screen design.
 5.	Bind a database query for all vocabularies to the main RecyclerView in a vertical list.
