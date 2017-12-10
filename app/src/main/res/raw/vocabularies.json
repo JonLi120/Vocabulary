@@ -1,0 +1,44 @@
+{
+  "vocabularies": [
+    {
+      "word": "culpable",
+      "means": "deserving blame or censure as being wrong or injurious"
+    },
+        {
+      "word": "loathsome",
+      "means": "highly offensive; arousing aversion or disgust"
+    },
+	    {
+      "word": "snicker",
+      "means": "laugh quietly"
+    },
+	    {
+      "word": "wistful",
+      "means": "showing pensive sadness"
+    },
+	    {
+      "word": "recrimination",
+      "means": "mutual accusations"
+    },
+	    {
+      "word": "gaunt",
+      "means": "very thin especially from disease or hunger or cold"
+    },
+	    {
+      "word": "subdued",
+      "means": "quieted and brought under control"
+    },
+	    {
+      "word": "hijab",
+      "means": "a headscarf worn by Muslim women"
+    },
+	    {
+      "word": "coup",
+      "means": "a sudden and decisive change of government by force"
+    },
+	    {
+      "word": "malfunction",
+      "means": "fail to work properly"
+    }
+  ]
+}
